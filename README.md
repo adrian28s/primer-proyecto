@@ -14,7 +14,10 @@ Mi primera web básica en la cual pongo en práctica los conocimientos adquirido
 
 #### Inicio
 ![foto](/assets/readme/Captura%20de%20pantalla%202022-09-29%20223831.png)
+#### Bibliografía
 ![foto](/assets/readme/bibliografia.png)
+#### Contacto
 ![foto](/assets/readme/contacto.png)
+#### Portafolio
 ![foto](/assets/readme/portafolio.png)
 Hecho por Adrian Sanchez 
