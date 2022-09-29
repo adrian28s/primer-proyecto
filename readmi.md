@@ -13,6 +13,6 @@ Mi primera web básica en la cual pongo en práctica los conocimientos adquirido
 ### Preview:tw-1f4a5:
 
 #### Inicio
-!(foto)(/assets/readme/Captura de pantalla 2022-09-29 223831.png)
+![foto](/assets/readme/Captura%20de%20pantalla%202022-09-29%20223831.png)
 
 Hecho por Adrian Sanchez :fa-user:
