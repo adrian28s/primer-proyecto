@@ -1,5 +1,5 @@
 
-#SiniestradosSanchez
+# SiniestradosSanchez
 Mi primera web básica en la cual pongo en práctica los conocimientos adquiridos en el inicio del bootcam. Se trata de una web de venta de vehículos en la cual disponemos de varias pestañas de navegación; 
 -Inicio: Donde se presenta la web.
 -Bibliografía: aparece nuestros inicios y un video anclado de como comprar en nuestra web
